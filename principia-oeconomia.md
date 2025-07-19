@@ -1,4 +1,4 @@
-## Principia Oeconomia
+# Principia Oeconomia
 
 *introduction*
 
@@ -23,7 +23,7 @@
 > Note: The first ten points are an exercise in reframing the Bill of Rights as duties a good society should provide for its people.
 
 
-# Duties of the People, For the good of all People
+# Duties of the People, For all People
 
 Amendment 1 Freedoms, Petitions, Assembly
 
@@ -211,6 +211,7 @@ We have never been more capable of proving or disproving cases of rape through m
 The two-strike rule gives one chance for an individual to learn their lesson and defend against the possibility of a false conviction. On the second conviction of rape or attempted rape, individuals will receive capital punishment, promptly with no possibility of release or parole.
 
 - 18.1 Victims who are under the age of 14 are considered two strikes.
+- 18.2 False accusations of rape, due to the known severe possible consequences, may be considered attempted murder if proven malicious.
 
 
 
