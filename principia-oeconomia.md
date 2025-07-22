@@ -194,6 +194,16 @@ All citizens enrolled are required to connect and or report all expense accounts
 Individuals found to be missreporting spending are removed from the program for an exponentially increasing amount of time per previous incidence at the rate of `2^n`.  
 `2^0 = 1`, `2^1 = 2`, `2^2 = 4`, etc...
 
+#### 15.3 Open Questions
+- How to qualify what is costs are covered and what costs are not covered? 
+    - Not everything should be covered.
+    - Where do you draw the line? Some things are obvious to cover, while others are obvious not to. How to handle the transition point in a way that grows with our scientific understanding of health and wellness.
+- What is fair and unbaised? 
+    - If the recipient decides that is ripe for mistreatment
+    - If a group of individuals decide that is ripe for corruption and capture.
+- Preventative care?
+    - How far should this cover? What is the financial incentive regarding cost-saving measures? My intuition is that there is a hand-hold here to explore.
+
 ## 16 Land Value Tax
 Encourage [productive](#productivity) land use. Inescapable through the offshoring of accounts. The fairest and best tax on wealth and its' accumulation.
 
@@ -232,15 +242,27 @@ Representatives who cut too much or too deeply would lose public support is bala
 ## 21 Self-Contained Bills
 Bills must be self-contained and voted on one by one. 
 
-## 22 Expiring Laws
+#### 21.1 Open Questions
+
+- How to quantify self-contained?
+    - Too far, and there will be useless separation that creates busy work.
+    - Too little and we return to the omnibus bills we have today.
+    - It should be reasonable and expect reasonable actions from reasonable people. 
+- Incentive alignment will keep a good balance?
+    - What are the incentives that lead to big bills, and how can we remove those?
+- People who oppose a bill should not be able to use this process to delay or stagnate progress on something they don't agree with and have majority support for.
+
+## 22 The Sunset Doctrine - Procedure of Expiring Laws
 Laws after some time (25 years) are automatically retired unless at least but not limited to one representative makes a public motion to continue the law. Laws that have been retired need to be reintroduced and voted in as laws again.
+- Laws previous to this rule in place are considered (mod 25) from the year the law was enacted, starting some time after approval to give lawmakers and the public time to prepare.
 
 ## 23 All government entities are required to follow the same expectations as Public Companies established by the SEC.
 
 If requirements are too onerous then change them for Public companies as well. It is fair to require the government to live by the rules it makes.
 
 ## 24 Term limits of 20 years
-To prevent long-term entrenched political self-interest for both the Senate and the House of Representatives. The maximum time allowed served is a total of 20 years.
+To prevent long-term entrenched political self-interest for both the Senate and the House of Representatives. The maximum time allowed served is 20 years.
+- 25 years for the sunset doctrine, and 20 for elected representatives prevent one person from "doubling up" on to keep the law through two cycles.
 
 # Disincentivizing Predatory Behavior
 
