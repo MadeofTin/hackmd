@@ -107,12 +107,27 @@ We are at a unique turning point in history, post-material needs, where guarante
 ## Inherent Economic Value of Everyone.
 
 #### Economy is limited by the size of the population.
+- Half the population. With all else equal. What happens to the size of the economy. Population is the determining factor.
 
 #### Duel Value = (Individual Needs + Freedom).
+- Every person has needs
+- They have the capacity to choose, but that needs to be allowed.
 
 ## Who doesn't like a Meritocracy.
+- The winners
+- Lawfar is the end game.
 
-## Crime is a Tax on the Economy.
+## Economic freedom of choice scales.
+
+Who can better meet your needs and how fast can that information spread to others.
+
+ - 12,000,000 vs 120 cognitive free hours. Free choice scales. 1 million people have 12 hours per day to find ways to better meet their needs and find ways to better meet the needs of others. 12 people can spend every day and not spend as many cognitive cycles as 1 day of 10,000 people.
+- This works even better as the population scales.
+ - We are well connected. New ways to better meet your needs can travel fast to others.
+ 
+Why central planning an economy is always worse than a free population that can choose for themselves.
+
+## Crime is a Tax.
 
 
 
