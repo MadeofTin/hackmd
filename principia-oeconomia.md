@@ -129,6 +129,31 @@ Why central planning an economy is always worse than a free population that can 
 
 ## Crime is a Tax.
 
+- Locking up things on shelves increases the cost to deliver them.
+- Stolen inventory is simultaneously a realized cost and lost revenue.
+- Not being safe during at night removes time a store could make money. (Late night gas stations)
+- Those costs are passed on to the customer.
+
+## Artificial means overcome natural ends 9/10
+
+- Implicit guidance. Nature gives us guides in the right direction. For millions of years, this has worked. We need sugar to think. Sweetness guides us to sugar.
+- Explicitly, we can build things to meet those goals and miss the substance of why they exist in the first place. Processed sugar tastes better than anything in nature but lacks nutrition. Artificial sweeteners on their own are even sweeter than natural sugar. 
+- The fake thing will always beat out the real thing when instinct is left on its own.
+- Social media + generative A.I. is about to show us what feelings are nature-driven and how easy it is to hijack those mechanisms.
+
+## What you feel is real is disjunct from what is real.
+
+ - What you feel about someone is always different from what is real. (Explains being wrong about your relationship. If what you believed was real.)
+ - We used to fall in love over letters. 
+     1) If someone intercepted the letters and rewrote them, how would the experience be different for the reader?
+     2) If the letters are fabricated out of thin air with magic, how would the experience be different for the reader?
+     3) What if a large language model wrote the letters.
+- A.I. is about one-shot our relationship circuits, and if we are not careful, will drive down birth rates to unsustainable levels.
+
+
+## What you believe to be true is your only true choice.
+
+- The man and the room of keys thought experiment.
 
 
 # Supported Policies
@@ -140,6 +165,7 @@ A guaranteed minimum income above the poverty line, equal for all nationwide, pa
 #### Defining Principles
 - Support who needs it when they need it -- not higher income earners.
 - Paid out when you are paid (monthly/biweekly/etc) or bi weekly if unemployed/self-employed.
+- Based on your average [income](#income) over a rolling 365 day period.
 - Incentivise all who can make more income to make more income.
 - Smooth transition out of assistance.
 - The majority of what you make you keep (60/40 rule)
