@@ -151,10 +151,20 @@ Why central planning an economy is always worse than a free population that can 
 - A.I. is about one-shot our relationship circuits, and if we are not careful, will drive down birth rates to unsustainable levels.
 
 
-## What you believe to be true is your only true choice.
+## What you believe to be true is your most true choice.
 
 - The man and the room of keys thought experiment.
+- Dirty dish thought experiment.
+- Animals don't get stuck in delusions like we do. They receive the present and act in it.
 
+
+It is the sorry state of almost all men to continue the existance of whatever they are given, and pass that onto the next generation again, and again.
+
+## Social norms iterated, tends towards extremism, unless...
+- Some objective bounding force is applied in balance.
+- Religion is everywhere. Without objective means towards goals.
+- It happens so often in so many places it has to be built into our natural state.
+    - e.g. Extreme Environmentalism
 
 # Supported Policies
 
