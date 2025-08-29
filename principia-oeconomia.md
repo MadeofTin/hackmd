@@ -11,6 +11,8 @@
   <dd>Sum of money received into a checking account or equivalent that is used or can be used to spend on any goods or services. Not a retirement account, or money market account, etc...</dd>
     <dt><strong><a id="fake-jobs">Fake Jobs</a></strong></dt>
   <dd>Jobs created with employment as the means and the end. Jobs whose productivity is soley their existance provides to their superior.</dd>
+    <dt><strong><a id="AND">AND</a></strong></dt>
+  <dd>Two goals where incentives may be at odds but both are necessary to reach a goal better than the two considered on their own.</dd>
 </dl>
 
 *(e.g. A tech manager who uses his number of subordinates to boast at dinner parties. A factory manager who receives benefits from the government to create jobs that are not needed.)*
@@ -23,26 +25,31 @@
 > Note: The first ten points are an exercise in reframing the Bill of Rights as duties a good society should provide for its people.
 
 
-# Duties of the People, For all People
+# The power of the state
 
-Amendment 1 Freedoms, Petitions, Assembly
+Penultimate power belongs to the state.
 
+### Pyramids - an Example
 
-## 2. Duty to allow self-defense for all, mitigating any difference in physical size and strength.
+- Operate on a scale incomparable to any other
+- Do anything the state sets as a goal
+- Can meet a few peoples need (The Ruling Family), or needs of the many
+- When the state uses its power to protect and provide for its' people, the state benefits as a whole.
 
-> Amendment 2 Right to bear arms
+# Duty of the state to the people
+
+## Uphold the Law
+No one will follow the law without a punishment that is known [AND](#AND) enforced. Punishments need to be sufficient to deter the behavior, but not excessive or unreasonable for the crime.
+
+## Duty to process legal matters of the citizens quickly AND correctly.
+Delaying court processing is an indirect punishment with no recourse for the people. Without checks this can be targeted for unjust or targeted enforcement.
+
+## Duty to protect personal property and ownerships.
+
+## Duty to protect the ability for self-defense
+
 
 Our duty is to ensure that all men and women, regardless of size, age, or stature, are enabled to protect themselves on equal footing, without risk of being overpowered by physical size, strength, or stature. Firearms are the great equalizer of lethal force.
-
-
-Amendment 3 Quartering of soldiers
-Amendment 4 Search and arrest
-Amendment 5 Rights in criminal cases
-Amendment 6 Right to a fair trial
-Amendment 7 Rights in civil cases
-Amendment 8 Bail, fines, punishment
-Amendment 9 Rights retained by the People
-Amendment 10 States' rights
 
 *Additional Working List*
 Duty to provide a future.
