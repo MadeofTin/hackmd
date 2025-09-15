@@ -188,7 +188,7 @@ It is the sorry state of almost all men to continue the existance of whatever th
 
 # Supported Policies
 
-## 11 Negative Income Tax
+## 11. 60/40 - Negative Income Tax
 A guaranteed minimum income above the poverty line, equal for all nationwide, paid directly into participants' accounts. For every dollar earned while receiving NIT individuals will keep 60% until no support is provided. This results in tapering off assistance gradually and rewards individuals who through diligence find any additional income sources.
 
 
@@ -212,13 +212,13 @@ A guaranteed minimum income above the poverty line, equal for all nationwide, pa
 [60-40 Rule NIT Calculator and Chart Source](https://docs.google.com/spreadsheets/d/13_6jZ4IP27R8h-LogfEXBKPOgqR9DYSjmps707iolF4/)
 
 #### 11.1 Beyond Self-Care
-For individuals who are unable to care for themselves or live independently for any reason. Care providers may receive participants' NIT to care for them on their behalf.  
+For individuals who are unable to care for themselves or live independently, for any reason. Care providers may receive participants' NIT on their behalf.  
 
-- Including mental health, physical or mental disability, substance abuse etc...
+- Including but not limited to mental health, physical or mental disability, substance abuse etc...
 
 #### 11.2 Prison or Jail
 
-While in prison or jail, participants receive no NIT. The incarcerating facility may receive the individual's NIT to care for the participant on their behalf.
+While in prison or jail, participants receive no NIT. The incarcerating facility may receive the NIT in lieu of the individual.
 
 
 #### 11.3 Requirements
@@ -234,20 +234,30 @@ Distribution is on an individual basis. No one may interfere, spouse, parent, or
 
 Parents (or Legal Gaurdian/s) receive children's NIT starting at birth until the age of 18. At the age of 14, children start to receive their benefits, increasing gradually, until fully distributed directly into the child's account.
 
+#### 11.6 Increased total employment and the rise of part time work
+
+NIT allows people to live off part time work, increasing how many can be employeed. NIT allows an encourages people who can work, even a little, to work, and does not require people to overwork in order to survive.
+
 ### 12 Remove Minimum Wage
-Minimum wage is not required with the adoption of NIT. Companies lose leverage against employees because they can leave at any point if they are mistreated or underpaid.
+Minimum wage is not required with the adoption of NIT. Companies lose leverage against employees because they can leave at any point if sufficiently are mistreated or underpaid.
 
 ### 13 Abolish Unions
-Unions serve to protect members from mistreatment by companies and establish collective bargaining against the power of corporate interests. A company's leverage is obtained through a threat against job security combined with the necessary income for people to live. 
+Unions serve to protect members from mistreatment by companies and establish collective bargaining against the power of corporate interests. A company's leverage is obtained through threat against job security combined with the necessity of earning income to live.
 
-NIT provides guaranteed income outside of employment and therefore removes corporations' leverage and power. Unions are no longer needed as people are supported directly and so can be abolished. Any dues should instead remain with the employees to do as they see fit to prevent rent-seeking behavior from redundant organizations.
+NIT provides a guaranteed minimum income outside of employment and therefore removes corporations' leverage and power. Unions are no longer needed as people are supported directly and so can be abolished. Any dues should instead remain with the employees to do as they see fit to prevent rent-seeking behavior from redundant organizations.
+
+*end article*
+
+---
 
 ### 14 No bailouts or subsidies for Corporations
 Companies should live and die by their success in the market. Securing jobs is a means to secure income. When you secure income you no longer need to protect corporations. You protect the individuals directly.
 
 - Exemptions for issues of national security, although taxes and tariffs should be preferred and ruled out before pursuing.   
 
-## 15 Guaranteed Affordable Healthcare
+----
+
+## 15 Affordable Healthcare
 
 Removing all costs from healthcare removes the reward for being healthy and encourages wasteful use of healthcare resources. It should cost something to receive healthcare, to encourage appropriate use, but not beyond what is affordable individually.
 
