@@ -8,7 +8,7 @@
     <dt><strong><a id="productivity">Productivity</a></strong></dt>
   <dd>The total number of individuals whose needs an individual or company meets.</dd>
     <dt><strong><a id="income">Realized Income</a></strong></dt>
-  <dd>Sum of money received into a checking account or equivalent that is used or can be used to spend on any goods or services. Not a retirement account, or money market account, etc...</dd>
+  <dd>Money received into a checking account or equivalent that is used or can be used to spend on goods or services. Not a retirement or pension, money market, or investment account etc.</dd>
     <dt><strong><a id="fake-jobs">Fake Jobs</a></strong></dt>
   <dd>Jobs created with employment as the means and the end. Jobs whose productivity is soley their existance provides to their superior.</dd>
     <dt><strong><a id="AND">AND</a></strong></dt>
@@ -67,16 +67,18 @@ Why now? And, why never before now?
 
 > Before the Industrial Revolution, between 80 percent and 90 percent of the world’s population worked in agriculture. - (Source)
 
+Pre industrial revolution, to feed 1,000,000 people it took 800,000 to 900,000 workers. In 2022 it is estimated 26.2% of the population works in agriculture, so today it would take 260,000 workers. Where do the other 600,000 workers go to make a living? To another industry, another industry where technology enables fewer people to meet more people's needs. A cycle that has repeated since the industrial revolution and has not stopped today.
+
 ![Growing Gap](https://docs.google.com/drawings/d/e/2PACX-1vSSadDEQ-3H2d4iW_kKwvlCwvuKs5sXjyVkeVy1dtmrI66BgOuD2DQx7Q_jf2UZyMZUn0sUXCHqbR6L/pub?w=1440&h=1080 =100%x)
 
 As technology improves we require fewer and fewer workers to meet the global material needs of the population. Population growth is exponential and so worsens at an increasing rate. As the gap grows:
 
 
- - More people are fighting for fewer jobs resulting in higher competition and lower wages.
- - Tensions increase as people are unable to find work to sufficiently support their needs.
- - The future is global destabilization and depopulation if this gap is not remedied.
+ 1. More people fighting for fewer jobs resulting in higher competition and lower wages.
+ 2. Tensions increase as people are unable to find work to sufficiently meet their material needs.
+ 3. Global destabilization and depopulation, fundamentally limiting the growth of the economy even for the already wealthy. 
 
-
+This will be our future unless we choose another path where we support the population and give individuals the time and freedom to find new ways to be [productive](#productivity). 
 
 
 #### Material Needs vs. Immaterial needs.
@@ -93,22 +95,33 @@ Work to meet the non-material needs of a population is not well understood and i
 | Rivalrous | **Rivalrous**<br>- Two people can't wear the same shirt to keep warm. <br>-A limited number of people can live under the same shelter | **Non-Rivalrous**<br>Reading a story does not prevent someone else from reading that story.<br>- Digital representations of entertainment are so low cost to replicate they are functionally non-rivalrous. The bandwidth of the internet is such the entire population of the world could watch the same movie at the same time at marginal cost. |
 
 
-Historically, as jobs have been lost in one sector the answer given by economists is for populations to move where jobs still needed. For example, the move from the South to the Midwest to work in factories in the 20th century. Unfortunately, we are running out of places and job sectors to move to.
+Historically, as jobs have been lost in one sector the answer given by economists is for populations to move where jobs are needed. For example, the move from the South to the Midwest to work in factories in the 20th century. Unfortunately, we are running out of places and job sectors to move to.
 
 > In the United States, the manufacturing sector employed just 15 percent of the workforce in 1880. Manufacturing employment peaked at 38 percent in 1944. By 2019, it fell to 8.5 percent. - (Source)
 
 Potential Solutions
 
-1. We can let people die out until we reach an equiliribum.
-2. Create [fake jobs](#fake-jobs) 
-3. Pay people to live, support population growth, and grow economic opportunities for all.
+1. We can let people die out until reaching an equiliribum.
+2. Mass create [fake jobs](#fake-jobs) that although support people does not contribute meaningfully to economic growth.
+3. Pay to support all who need it, bolster population growth, and grow the economy for the rich and the poor.
 
-We need a better system to support future growth and future improvements to technology. Luckily it has never been easier to meet the material needs of a population than today. Due to the increase of productivity from technology (the number of people required to meet the sum of all the population's needs.)
-
-> How many work days does it take to feed 1,000,000 people? Every year, less and less. If you look at the number of people required to grow the grain required to make bread to feed 1,000,000 people. It was 100,000s before the industrial revolution and now dozens thanks to mass farming technologies and automation.
+We need better systems to support future growth and future improvements to technology. There has never been an easier in of all history time to meet a populations material needs than today.
 
 
-We are at a unique turning point in history, post-material needs, where guaranteed income for the majority can be provided through the economic output of the [productive](#productivity) minority.
+We are at a unique turning point in history, post-material, where guaranteed income for the majority can be provided through the economic output of the [productive](#productivity) whole.
+
+#### Not Everyone will be productive, okay
+One realization that all of us will need to come to terms with is that although not everyone will be productive, that is okay and expected. It is better a few people create real value than to mass-create fake jobs in order to assuage the public.
+
+It has never been cheaper to feed the world, and we do not know who will be the next most productive people. Our best bet is to bet on us all and count on a few outsized returns to more than balance the cost.
+
+Give people freedom to choose to be [productive](#productivity) and let the market reward those who choose the best.
+
+
+*end article*
+
+-----
+
 
 
 ## Inherent Economic Value of Everyone.
